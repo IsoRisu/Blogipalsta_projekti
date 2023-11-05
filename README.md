@@ -1,7 +1,5 @@
 # Blogipalsta_projekti
 
-# Sanaharjoittelu
-
 Sovelluksen avulla voi voi lukaista blogeja, joihin käyttäjät vivat regoida ja kommentoida.
 Sovelluksen ominaisuuksia ovat:
 
